@@ -1,0 +1,2 @@
+unique()는 단일열에서만 작동
+여러열에서 쓸 때는.drop_duplicates()
