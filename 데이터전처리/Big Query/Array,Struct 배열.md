@@ -24,3 +24,6 @@ unnest를 할 때는 cross join + unnest (array_column)
 unnest (array_column) as 새로운 이름
 
 select 절에서 새로운 이름으로 사용한다. 기존의 array_column은 사용하지 않는다
+
+
+BigQuery(SQL) 활용편 [https://inf.run/QVgPf] 강의 내용 인용
