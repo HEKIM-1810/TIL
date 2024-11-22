@@ -39,17 +39,15 @@
 * 데이터 시각화를 위한 효과적인 집계 방법<div>
 <div>
 
-  `[데이터 처리 (데이터 마트 구축)](./데이터처리)`
+## 🔗 Link 🔗
+
+* [데이터전처리](https://github.com/HEKIM-1810/TIL/tree/23b6b5179a6770f15c6f420a2da40c3f887953ae/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC)<div>
+  * [Python](https://github.com/HEKIM-1810/TIL/tree/23b6b5179a6770f15c6f420a2da40c3f887953ae/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC/python)<div>
+  * [Google Spread Sheet](https://github.com/HEKIM-1810/TIL/tree/23b6b5179a6770f15c6f420a2da40c3f887953ae/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC/Google%20Spread%20Sheet)<div>
+  * [Big query](https://github.com/HEKIM-1810/TIL/tree/23b6b5179a6770f15c6f420a2da40c3f887953ae/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC/Big%20Query)<div>
+
 
 <div>
-/데이터처리
-    /데이터마트_구축.md
-    /데이터_정제_기법.md
-/ERROR_처리
-    /파일로딩_에러.md
-    /메모리_관리.md
-/데이터집계
-    /기본통계함수.md
-    /시계열분석.md
+
 
 
